@@ -1,8 +1,19 @@
-﻿Don Quijote
+Title: Don Quijote
 
-Miguel de Cervantes Saavedra
+Author: Miguel de Cervantes Saavedra
 
+Release date: December 1, 1999 [eBook #2000]   Most recently updated: January 17, 2021
+
+Language: Spanish
+
+Credits: an anonymous Project Gutenberg volunteer and Joaquin Cuenca Abela
+
+
+El ingenioso hidalgo don Quijote de la Mancha
+por Miguel de Cervantes Saavedra
+  
 Primera parte del ingenioso hidalgo don Quijote de la Mancha
+
 
 Capítulo primero. Que trata de la condición y ejercicio del famoso hidalgo
 don Quijote de la Mancha
@@ -164,6 +175,9 @@ encaminase al de princesa y gran señora, vino a llamarla Dulcinea del
 Toboso, porque era natural del Toboso; nombre, a su parecer, músico y
 peregrino y significativo, como todos los demás que a él y a sus cosas
 había puesto.
+
+
+
 
 Capítulo II. Que trata de la primera salida que de su tierra hizo el
 ingenioso don Quijote
@@ -36637,3 +36651,8 @@ Quijote, van ya tropezando, y han de caer del todo, sin duda alguna. Vale.
 Fin
 
 
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK DON QUIJOTE ***
