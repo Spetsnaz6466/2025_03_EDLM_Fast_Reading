@@ -63,14 +63,16 @@ def _fileLineByLine(book,line__):
             if line__ <= _count:
                 #print(i)
                 if i == []:
+                    # Limpiar la pantalla si es una linea en blanco (nuevo parrafo)
                     time.sleep(3)
                     os.system("clear")
                 else:
                     a=0    # List element counter
                     _line = ""
+                    # Como referencia Se imprime el numero de linea [{_count}]
                     print(f'[{_count}] ', end="")
                     while a <= len(i)-1:
-                        print(i[a])
+                        print("aaa  ",i[a], end="")
                         if len(i[a]) > 60:
                             _time =_time  + 5
                         elif len(i[a]) > 30:
@@ -78,7 +80,7 @@ def _fileLineByLine(book,line__):
                         else:
                              _time =_time + 3
                         a+=1
-                    print(_line)
+                    print("bbb   ",_line)
                     time.sleep(_time)
                     _line, _time = 0, 0
 
